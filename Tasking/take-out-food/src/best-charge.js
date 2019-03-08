@@ -78,7 +78,6 @@ function getTotalCost(orderItems) {
   return totalCost;
 }
 
-
 function printBestDiscount(orderItems) {
 
   let result = "-----------------------------------\n";
