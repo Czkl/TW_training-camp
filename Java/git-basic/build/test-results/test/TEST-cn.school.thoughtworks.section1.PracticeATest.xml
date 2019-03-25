@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="cn.school.thoughtworks.section1.PracticeATest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-03-25T06:35:46" hostname="AEV04QIUTK1FQI4" time="0.001">
+<testsuite name="cn.school.thoughtworks.section1.PracticeATest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-03-25T07:28:27" hostname="AEV04QIUTK1FQI4" time="0.002">
   <properties/>
-  <testcase name="collect_same_elements_should_return_an_array_with_same_elements_in_two_collections" classname="cn.school.thoughtworks.section1.PracticeATest" time="0.001"/>
+  <testcase name="collect_same_elements_should_return_an_array_with_same_elements_in_two_collections" classname="cn.school.thoughtworks.section1.PracticeATest" time="0.002"/>
   <system-out><![CDATA[[a, e, f, d]
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
