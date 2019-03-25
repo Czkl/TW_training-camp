@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="cn.school.thoughtworks.section3.PracticeATest" tests="1" skipped="0" failures="1" errors="0" timestamp="2019-03-22T10:25:05" hostname="AEV04QIUTK1FQI4" time="0.0">
+<testsuite name="cn.school.thoughtworks.section3.PracticeATest" tests="1" skipped="0" failures="1" errors="0" timestamp="2019-03-25T06:35:46" hostname="AEV04QIUTK1FQI4" time="0.001">
   <properties/>
-  <testcase name="create_update_collection_should_return_a_new_map_with_element_as_key_and_count_as_value" classname="cn.school.thoughtworks.section3.PracticeATest" time="0.0">
+  <testcase name="create_update_collection_should_return_a_new_map_with_element_as_key_and_count_as_value" classname="cn.school.thoughtworks.section3.PracticeATest" time="0.001">
     <failure message="java.lang.AssertionError: expected:&lt;null&gt; but was:&lt;{a=1, b=2, c=2, t=2, d=1, e=1, f=1, g=2, h=2}&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;null&gt; but was:&lt;{a=1, b=2, c=2, t=2, d=1, e=1, f=1, g=2, h=2}&gt;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:834)

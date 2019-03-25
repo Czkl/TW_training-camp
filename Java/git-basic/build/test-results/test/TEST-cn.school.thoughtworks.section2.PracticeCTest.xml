@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="cn.school.thoughtworks.section2.PracticeCTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2019-03-22T10:25:05" hostname="AEV04QIUTK1FQI4" time="0.001">
+<testsuite name="cn.school.thoughtworks.section2.PracticeCTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2019-03-25T06:35:46" hostname="AEV04QIUTK1FQI4" time="0.0">
   <properties/>
-  <testcase name="count_same_elements_should_return_an_map_with_elements_and_count" classname="cn.school.thoughtworks.section2.PracticeCTest" time="0.001">
+  <testcase name="count_same_elements_should_return_an_map_with_elements_and_count" classname="cn.school.thoughtworks.section2.PracticeCTest" time="0.0">
     <failure message="java.lang.AssertionError: expected:&lt;null&gt; but was:&lt;{a=3, b=6, c=8, t=19, d=5, e=7, f=9, g=7, h=11}&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;null&gt; but was:&lt;{a=3, b=6, c=8, t=19, d=5, e=7, f=9, g=7, h=11}&gt;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:834)
