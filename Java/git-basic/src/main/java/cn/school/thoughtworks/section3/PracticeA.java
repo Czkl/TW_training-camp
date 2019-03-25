@@ -7,6 +7,15 @@ public class PracticeA {
     Map<String,Integer> createUpdatedCollection(Map<String,Integer> collectionA, Map<String,List<String>> object) {
 
 
-        return null;
+        List<String> list = object.get("value");
+
+        for (int i = 0; i < list.size(); i++) {
+            String t = list.get(i);
+            if (collectionA.containsKey(t)) {
+                collectionA.put(t, collectionA.get(t) - 1);
+            }
+        }
+
+        return collectionA;
     }
 }

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="cn.school.thoughtworks.section2.PracticeATest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-03-25T07:28:27" hostname="AEV04QIUTK1FQI4" time="0.0">
+<testsuite name="cn.school.thoughtworks.section2.PracticeATest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-03-25T07:52:34" hostname="AEV04QIUTK1FQI4" time="0.001">
   <properties/>
-  <testcase name="count_same_elements_should_return_an_map_with_elements_and_count" classname="cn.school.thoughtworks.section2.PracticeATest" time="0.0"/>
+  <testcase name="count_same_elements_should_return_an_map_with_elements_and_count" classname="cn.school.thoughtworks.section2.PracticeATest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
